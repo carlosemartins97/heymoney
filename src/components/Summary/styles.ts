@@ -26,4 +26,9 @@ export const Container = styled.div`
             line-height:3rem;
         }
     }
+
+    .summary-total {
+        background: var(--green);
+        color: #FFF;
+    }
 `;

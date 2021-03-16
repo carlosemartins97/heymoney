@@ -54,7 +54,7 @@ export function Summary(){
                 </strong>
             </div>
 
-            <div>
+            <div className="summary-total">
                 <header>
                     <p>Total</p>
                     <img src={totalImg} alt="Entradas"/>
